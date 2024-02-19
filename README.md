@@ -14,6 +14,8 @@
 <p><i>Thursday</i>Country VS Country Club</p>
 <p><i>Friday</i>Hawaiian Day</p>
 <br>
-<p>WInter Carnival is to helo students get out and have fun with their friends while also giving them a break from Winter's cold. - Student Council Advisor</p>
+<p>WInter Carnival is to help students get out and have fun with their friends while also giving them a break from Winter's cold. - Student Council Advisor</p>
+<br>
+<h4> Stay tuned for nexts weeks FFA Week for more games and dress up activities!<h4>
 </body>
 </html>
