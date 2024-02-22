@@ -2,7 +2,7 @@
 <html>
 <body>
 <head>
-<title>WINTER CARNIVAL</title>
+<title> </title>WINTER CARNIVAL </title>
 </head>
 <br>
 <h1>Turtle Lake Winter Carnival</h1>
@@ -11,7 +11,7 @@
 <p><i>Monday</i> Pajama Day</p>
 <p><i>Tuesday</i> Adam Sandler Day</p>
 <p><i>Wednesday</i> TROLLHAUDEN</p>
-<p><i>Thursday</i>Co untry VS Country Club</p>
+<p><i>Thursday</i> Country VS Country Club</p>
 <p><i>Friday</i> Hawaiian Day</p>
 <br>
 <p>Winter Carnival is to help students get out and have fun with their friends while also giving them a break from Winter's cold. - Student Council Advisor</p>
