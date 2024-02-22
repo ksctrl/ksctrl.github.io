@@ -1,10 +1,10 @@
 # ksctrl.github.io
 <html>
+<body>
 <head>
 <title>WINTER CARNIVAL</title>
 </head>
 <br>
-<body>
 <h1>Turtle Lake Winter Carnival</h1>
 <p>To celebrate some winter fun, Turtle Lake Student Council has put together a varity of fun activites for the student body. Some of this includes dress up days such as Country Vs. Country club, Adam Sandler Day, and More! The students will also be able to go on a trip to <strong>Trollhaugen</strong> to ski and go tubing for a day. A king and QUeen will be elected for the year. Finally, there will be a ton of winter themed games on Friday that students can participate in to win some prizes!</p>
 <h5>ALl DRESS UP DAYS</h5>
